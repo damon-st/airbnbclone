@@ -6,13 +6,22 @@
     "start": "next start"
   },
   "dependencies": {
+    "@badrap/bar-of-progress": "^0.2.2",
+    "@heroicons/react": "^1.0.6",
+    "date-fns": "^2.29.3",
+    "geolib": "^3.3.3",
+    "mapbox-gl": "^2.10.0",
     "next": "latest",
-    "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react": "^18.1.0",
+    "react-date-range": "^1.4.0",
+    "react-dom": "18.1.0",
+    "react-map-gl": "^7.0.19",
+    "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
     "@types/react": "18.0.9",
+    "@types/react-date-range": "^1.4.4",
     "@types/react-dom": "18.0.5",
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
